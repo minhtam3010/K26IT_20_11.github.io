@@ -11,12 +11,13 @@ a {
 
 .page__main {
     /* Ảnh nền của trang đầu tiên nếu bạn muốn đổi thì đổi tại đây */
-    background-image: url("../img/20_11.jpeg");
+    background-image: url("../img/20_11.png");
     background-repeat: no-repeat;
     margin: 0;
     padding: 0;
     background-size: cover;
     background-position-y: 1rem;
+    background-position-x: 1rem;
 }
 .buttons {
     display: flex;
